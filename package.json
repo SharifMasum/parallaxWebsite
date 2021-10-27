@@ -1,0 +1,14 @@
+{
+  "name": "parallax",
+  "version": "1.0.0",
+  "description": "Parallax effect on website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Md Shariful Islam",
+  "license": "ISC",
+  "dependencies": {
+    "node-css": "^0.1.0"
+  }
+}
